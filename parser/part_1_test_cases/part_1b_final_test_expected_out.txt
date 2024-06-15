@@ -1,0 +1,50 @@
+{
+  Function Name: sum
+  Return Type: int
+  Arguments
+    int : x
+    int : y
+  Codes
+  {
+    {
+      total
+      =
+      0
+    }
+    {
+      [Return]
+        x
+        +
+        y
+    }
+  }
+}
+{
+  Function Name: main
+  Return Type: int
+  Arguments
+    NONE
+  Codes
+  {
+    {
+      x
+      =
+      0
+    }
+    {
+      y
+      =
+      0.0
+    }
+    {
+      c
+      =
+      10
+    }
+    {
+      d
+      =
+      3.0
+    }
+  }
+}

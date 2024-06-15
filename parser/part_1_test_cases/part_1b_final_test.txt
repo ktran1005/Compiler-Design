@@ -1,0 +1,14 @@
+int sum(int x, int y)
+{
+    int total;
+
+    return x + y;
+}
+
+int main()
+{
+    int x;
+    float y;
+    int c = 10;
+    float d = 3.0;
+}
